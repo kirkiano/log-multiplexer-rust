@@ -1,0 +1,7 @@
+RUST_LOG=server=info,tcp=warn,recv=warn
+LOG_PRETTY=1
+
+PORT=16000
+CHANNEL_CAPACITY=100
+
+MONGO_URI=mongodb://localhost:27017

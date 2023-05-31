@@ -1,0 +1,3 @@
+REGISTRY=docker.kirkiano.org
+IMAGE=log-multiplexer
+TAG=0.1-staging-rust
